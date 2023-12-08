@@ -4,3 +4,4 @@ creating the home page of Netflix using  HTML,CSS etc
 ![image](https://github.com/22ikasSingh/Netflix_Home_Page/assets/153290161/18b0c5d3-2ea1-428b-a3bc-fb8c067a9414)
 ![image](https://github.com/22ikasSingh/Netflix_Home_Page/assets/153290161/c15de798-5ae5-49bf-a2e2-ae2ab41df419)
 ![image](https://github.com/22ikasSingh/Netflix_Home_Page/assets/153290161/0155dc97-3dc0-434c-909e-1465ca9c9694)
+![image](https://github.com/22ikasSingh/Netflix_Home_Page/assets/153290161/d00473d3-afaf-4e10-af1f-54824aa57e0b)
